@@ -1,0 +1,25 @@
+.inline{
+	
+	display:inline-block;
+	background-color:yellow;
+	width: 70px;
+	height:70px;
+
+}
+.floating{
+	float:left;
+}
+.clearfix{
+	overflow:auto;
+	zoom:1;
+}
+
+
+.primer{
+	background-color: blue;
+	border-radius: 10px dashed;
+	padding: 10px;
+	width: 220px;
+	
+}
+
